@@ -1,3 +1,4 @@
+#new version
 provider "aws" {
   region = local.region
 }
